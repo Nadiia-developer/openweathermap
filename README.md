@@ -34,7 +34,7 @@ TELEGRAM_TOKEN=your_telegram_bot_token
 
 3. Install required Python packages:
 
-- pip install python-dotenv requests python-telegram-bot --upgrade
+- pip install python-dotenv requests python-telegram-bot pytest --upgrade
 
 4. Command-Line Interface (CLI)
 
@@ -44,3 +44,6 @@ TELEGRAM_TOKEN=your_telegram_bot_token
 
 5. Telegram Bot 
 - python main.py telegram
+
+6. Pytest
+- pytest test_weather.py
