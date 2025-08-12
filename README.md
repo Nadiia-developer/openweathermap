@@ -38,9 +38,9 @@ TELEGRAM_TOKEN=your_telegram_bot_token
 
 4. Command-Line Interface (CLI)
 
-- python your_script.py current Kyiv
+- python main.py current Kyiv
 
-- python your_script.py forecast Lviv
+- python main.py forecast Lviv
 
 5. Telegram Bot 
-- python your_script.py telegram
+- python main.py telegram
